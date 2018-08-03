@@ -82,7 +82,7 @@ class App extends Component {
         <audio ref={this.audio} muted>
           <source
             type='audio/mpeg'
-            src='https://ia801307.us.archive.org/28/items/JohnWilliamsStarWarsMainThemeFULL/John%20Williams%20-%20Star%20Wars%20Main%20Theme%20(FULL).mp3'
+            src='https://archive.org/download/StarWarsThemeSongByJohnWilliams/Star%20Wars%20Theme%20Song%20By%20John%20Williams.mp3'
           />
         </audio>
         <button 
