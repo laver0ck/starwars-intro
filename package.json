@@ -4,7 +4,7 @@
   "homepage": "http://laver0ck.github.io/starwars-intro",
   "private": true,
   "dependencies": {
-    "gsap": "^2.0.1",
+    "gsap": "^3.6.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
